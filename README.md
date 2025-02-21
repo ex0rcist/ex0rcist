@@ -80,10 +80,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <img src="https://raw.githubusercontent.com/ex0rcist/ex0rcist/output/snake.svg" alt="Snake animation" />
 
 ###
